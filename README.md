@@ -1,2 +1,5 @@
-# Prepcourse-Henry-Java
-Repositorio de practica del modulo 2 prepcourse Henry Java
+Solana Chaves
+
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
+
+
